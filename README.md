@@ -45,6 +45,7 @@ reflex run
 ```
 
 Abrir en el navegador: http://localhost:3000
+Tambien disponible en: https://page-replacement-gray-wood.reflex.run/
 
 ## Lógica de fallos de página
 
